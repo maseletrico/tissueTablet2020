@@ -3,8 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/home/marco/temp/TissueTablet%20Firmware/TissueTablet.X/main.c</file>
             <file>file:/home/marco/temp/TissueTablet%20Firmware/TissueTablet.X/mcc_generated_files/interrupt_manager.c</file>
             <file>file:/home/marco/temp/TissueTablet%20Firmware/TissueTablet.X/timer0_int.c</file>
+            <file>file:/home/marco/temp/TissueTablet%20Firmware/TissueTablet.X/mcc_generated_files/ext_int.c</file>
+            <file>file:/home/marco/temp/TissueTablet%20Firmware/TissueTablet.X/mcc_generated_files/mcc.c</file>
+            <file>file:/home/marco/temp/TissueTablet%20Firmware/TissueTablet.X/mcc_generated_files/ext_int.h</file>
+            <file>file:/home/marco/temp/TissueTablet%20Firmware/TissueTablet.X/mcc_generated_files/interrupt_manager.h</file>
+            <file>file:/home/marco/temp/TissueTablet%20Firmware/TissueTablet.X/timer0_int.h</file>
         </group>
     </open-files>
 </project-private>
